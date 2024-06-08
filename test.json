@@ -1,0 +1,6 @@
+{
+  "modelId": "amazon.titan-text-express-v1",
+  "contentType": "application/json",
+  "accept": "application/json",
+  "body": "{\"inputText\":\"this is where you place your input text\",\"textGenerationConfig\":{\"maxTokenCount\":8192,\"stopSequences\":[],\"temperature\":0,\"topP\":1}}"
+ }
